@@ -1,6 +1,7 @@
 # MERN Chat App
 
-![image](https://github.com/pateldivyam26/Chat-App/assets/79200448/e23914c4-c50d-483e-88dd-618efa807642)
+![image](https://github.com/pateldivyam26/Chat-App/assets/79200448/449ba917-6802-4476-bc5f-1eb66eba34ef)
+
 
 ## Description
 
